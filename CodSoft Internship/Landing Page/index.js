@@ -1,0 +1,1 @@
+alert("Hii Welcome to Tech Quick");
